@@ -1,0 +1,18 @@
+<!DOCTYPE peliculas [
+    <!ELEMENT peliculas (pelicula+)>
+    <!ELEMENT pelicula (titulo, sinopsis, duracion, directores, año, generos, portada, trailer,idioma_original, actores,edad)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT sinopsis (#PCDATA)>
+    <!ELEMENT duracion (#PCDATA)>
+    <!ELEMENT directores (director+)>  <!-- Uno o más elementos 'director' -->
+    <!ELEMENT director (#PCDATA)>
+    <!ELEMENT año (#PCDATA)>
+    <!ELEMENT generos (genero+)> <!-- Uno o más elementos 'genero' -->
+    <!ELEMENT genero (#PCDATA)>
+    <!ELEMENT portada (#PCDATA)>
+    <!ELEMENT trailer (#PCDATA)>
+    <!ELEMENT idioma_original (#PCDATA)>
+    <!ELEMENT actores (actor*)>  <!-- * Puede que no haya actores en películas animadas, en cuyo caso se utilizarán los nombres de los dobladores. -->
+    <!ELEMENT actor (nombre, personaje)> <!-- En películas de animación, "nombre" corresponde al doblador y no al nombre del actor. -->
+    <!ELEMENT edad(#PCDATA)> <!-- Edad recomendada, por ejemplo: +7, +14, +16... -->
+]>

@@ -1,0 +1,14 @@
+<!DOCTYPE articulo [
+<!ELEMENT articulo (titulo, listaAutores, resumen, secciones, citas)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT lista_autores (autor+)> <!-- puede tener 1 o más autores -->
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT secciones (seccion+)>  <!-- puede tener 1 o más secciones -->
+<!ELEMENT seccion (titulo_seccion, parrafo)>  
+<!ELEMENT tituloSeccion (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT citas (cita+)> <!-- puede tener 1 o más citas -->
+<!ELEMENT cita (#PCDATA)>
+]>
+

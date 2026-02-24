@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulo SYSTEM "articulo.dtd">
+
+<articulo>
+  <titulo>Extraction of References Using Layout and Formatting Information from Scientific Articles</titulo>
+  <lista_autores>
+    <autor>Kern, J.</autor> 
+  </lista_autores>
+  <resumen>Este artículo discute el uso de algoritmos para la extracción automática de referencias en textos científicos, utilizando información de diseño y formato.</resumen>
+  <contenido>
+    <secciones>
+      <titulo_seccion>Introducción</tituloSeccion>
+      <parrafo>Los textos científicos suelen contener referencias que son difíciles de extraer de manera automática debido a la variabilidad en su formato. 
+      Este artículo aborda esta problemática y propone un enfoque basado en el diseño del documento.</parrafo>
+    </seccion>
+    <seccion>
+      <titulo_seccion>Metodología</tituloSeccion>
+      <parrafo>Para llevar a cabo la extracción, se implementaron algoritmos que analizan el layout del texto y aplican técnicas de procesamiento de lenguaje natural.
+        Estos algoritmos identifican patrones en las referencias y las extraen con alta precisión.</parrafo>
+    </seccion>
+    <seccion>
+      <titulo_seccion>Resultados</tituloSeccion>
+      <parrafo>Los resultados muestran que el enfoque propuesto mejora significativamente la tasa de extracción de referencias en comparación con métodos tradicionales, logrando un 85% de precisión.</parrafo>
+    </seccion>
+    <seccion>
+      <titulo_seccion>Conclusiones</tituloSeccion>
+      <parrafo>La extracción automática de referencias es un paso crucial para mejorar la accesibilidad y organización de la literatura científica. Se sugiere que futuros trabajos
+       sigan explorando esta área para desarrollar métodos más robustos.</parrafo>
+    </seccion>
+  </secciones>
+  <citas>
+    <cita fecha="2013">Kern, J., & Doe, J. (2013). Extraction of References Using Layout and Formatting Information from Scientific Articles. D-Lib Magazine, 19(9/10).</cita>
+  </citas>
+</articulo>

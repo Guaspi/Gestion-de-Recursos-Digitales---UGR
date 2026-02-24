@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE congreso SYSTEM "peliculas.dtd">
+
+<peliculas>
+
+    <pelicula>
+        <titulo>Inception</titulo>
+        <sinopsis>Un ladrón que roba secretos a través de sueños debe llevar a cabo una tarea imposible: la inserción de una idea en la mente de un individuo.</sinopsis>
+        <duracion>148</duracion>
+        <directores>
+            <director>Christopher Nolan</director>
+        </directores>
+        <año>2010</año>
+        <generos>
+            <genero>Ciencia Ficción</genero>
+            <genero>Thriller</genero>
+            <genero>Intriga</genero>
+            <genero>Acción</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/inception-652954101-large.jpg</portada>
+        <trailer> https://www.youtube.com/watch?app=desktop&v=LifqWf0BAOA </trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Leonardo DiCaprio</nombre>
+                <personaje>Dom Cobb</personaje>
+            </actor>
+            <actor>
+                <nombre>Joseph Gordon-Levitt</nombre>
+                <personaje>Arthur</personaje>
+            </actor>
+            <actor>
+                <nombre>Elliot Page</nombre>
+                <personaje>Ariadne</personaje>
+            </actor>
+            <actor>
+                <nombre>Tom Hardy</nombre>
+                <personaje>Eames</personaje>
+            </actor>
+            <actor>
+                <nombre>Ken Watanabe</nombre>
+                <personaje>Saito</personaje>
+            </actor>
+            <actor>
+                <nombre>Cillian Murphy</nombre>
+                <personaje>Robert Fischer</personaje>
+            </actor>
+            <actor>
+                <nombre>Marion Cotillard</nombre>
+                <personaje>Mal Cobb</personaje>
+            </actor>
+            <actor>
+                <nombre>Michael Caine</nombre>
+                <personaje>Miles</personaje>
+            </actor>
+        </actores>
+        <edad>+14</edad>
+    </pelicula>
+    
+    <pelicula>
+        <titulo>Cars</titulo>
+        <sinopsis>Relata la historia de un coche de carreras llamado Lightning McQueen que se pierde en un pueblo y aprende sobre la amistad y la vida.</sinopsis>
+        <duracion>116</duracion>
+        <directores>
+            <director>John Lasseter</director>
+        </directores>
+        <año>2006</año>
+        <generos>
+            <genero>Animación</genero>
+            <genero>Comedia</genero>
+            <genero>Aventuras</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/cars-746710621-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=W_H7_tDHFE8</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Owen Wilson</nombre>
+                <personaje>Lightning McQueen</personaje>
+            </actor>
+            <actor>
+                <nombre>Paul Newman</nombre>
+                <personaje>Doc Hudson</personaje>
+            </actor>
+            <actor>
+                <nombre>Bonnie Hunt</nombre>
+                <personaje>Sally Carrera</personaje>
+            </actor>
+            <actor>
+                <nombre>Larry the Cable Guy</nombre>
+                <personaje>Mater</personaje>
+            </actor>
+            <actor>
+                <nombre>Cheech Marin</nombre>
+                <personaje>Ramone</personaje>
+            </actor>
+            <actor>
+                <nombre>Tony Shalhoub</nombre>
+                <personaje>Luigi</personaje>
+            </actor>
+        </actores>
+        <edad>+5</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>El Hoyo</titulo>
+        <sinopsis>En un futuro distópico, los prisioneros de una estructura vertical son alimentados a través de una plataforma que desciende, lo que provoca una lucha por la supervivencia.</sinopsis>
+        <duracion>94</duracion>
+        <directores>
+            <director>Galder Gaztelu-Urrutia</director>
+        </directores>
+        <año>2019</año>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Ciencia Ficción</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/el_hoyo-987825598-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=24Lf7fmKIXI</trailer>
+        <idioma_original>Español</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Iván Massagué</nombre>
+                <personaje>Goreng</personaje>
+            </actor>
+            <actor>
+                <nombre>Antonia San Juan</nombre>
+                <personaje>Imoguiri</personaje>
+            </actor>
+            <actor>
+                <nombre>Zorion Eguileor</nombre>
+                <personaje>Trimagasi</personaje>
+            </actor>
+            <actor>
+                <nombre>Emilio Buale</nombre>
+                <personaje>Baharat</personaje>
+            </actor>
+            <actor>
+                <nombre>Alexandra Masangkay</nombre>
+                <personaje>Miharu</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Joker</titulo>
+        <sinopsis>La historia de Arthur Fleck, un comediante fallido que se transforma en el icónico villano, Joker, en la ciudad de Gotham.</sinopsis>
+        <duracion>122</duracion>
+        <directores>
+            <director>Todd Phillips</director>
+        </directores>
+        <año>2019</año>
+        <generos>
+            <genero>Drama</genero>
+            <genero>Thriller</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/joker-790658206-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=rgrWXTz_8eU</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+            <nombre>Joaquin Phoenix</nombre>
+            <personaje>Arthur Fleck / Joker</personaje>
+            </actor>
+            <actor>
+                <nombre>Robert De Niro</nombre>
+                <personaje>Murray Franklin</personaje>
+            </actor>
+            <actor>
+                <nombre>Zazie Beetz</nombre>
+                <personaje>Sophie Dumond</personaje>
+            </actor>
+            <actor>
+                <nombre>Frances Conroy</nombre>
+                <personaje>Penny Fleck</personaje>
+            </actor>
+            <actor>
+                <nombre>Brett Cullen</nombre>
+                <personaje>Thomas Wayne</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Oppenheimer</titulo>
+        <sinopsis>La vida de J. Robert Oppenheimer, el físico detrás del desarrollo de la bomba atómica durante la Segunda Guerra Mundial.</sinopsis>
+        <duracion>180</duracion>
+        <directores>
+            <director>Christopher Nolan</director>
+        </directores>
+        <año>2023</año>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Drama</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=fSFoIyLKBSc</trailer>
+        <idioma_original>Inglés</idioma_original>   
+        <actores>
+            <actor>
+                <nombre>Cillian Murphy</nombre>
+                <personaje>J. Robert Oppenheimer</personaje>
+            </actor>
+            <actor>
+                <nombre>Emily Blunt</nombre>
+                <personaje>Katherine Oppenheimer</personaje>
+            </actor>
+            <actor>
+                <nombre>Matt Damon</nombre>
+                <personaje>Leslie Groves</personaje>
+            </actor>
+            <actor>
+                <nombre>Robert Downey Jr.</nombre>
+                <personaje>Lewis Strauss</personaje>
+            </actor>
+            <actor>
+                <nombre>Florence Pugh</nombre>
+                <personaje>Jean Tatlock</personaje>
+            </actor>
+            <actor>
+                <nombre>Benny Safdie</nombre>
+                <personaje>Edward Teller</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+</movies>
+
+<!--*************************************************************************************************-->
+<pelicula>
+        <titulo>Los renglones torcidos de Dios</titulo>
+        <sinopsis>Alice, investigadora privada, ingresa en un hospital psiquiátrico simulando una paranoia. Su objetivo es recabar pruebas del caso en el que trabaja: la muerte de un interno en circunstancias poco claras. Sin embargo, la realidad a la que se enfrentará en su encierro superará sus expectativas y pondrá en duda su propia cordura.</sinopsis>
+        <duracion>154</duracion>
+        <directores>
+            <director>Oriol Paulo</director>
+        </directores>
+        <año>2022</año>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Intriga</genero>
+            <genero>Drama</genero>
+        </generos>
+        <portada>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwWzsKCDiK0pPtjAp9WXdFRjvtvN7FYEACLc8ipFInBGXqcqDr</portada>
+        <trailer>https://www.youtube.com/watch?v=VpZjyY4wPi0&ab_channel=WarnerBros.PicturesEspa%C3%B1a</trailer>
+        <idioma_original>Español</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Bárbara Lennie</nombre>
+                <personaje>Alice Gould</personaje>
+            </actor>
+            <actor>
+                <nombre>Pablo Derqui</nombre>
+                <personaje>Ignacio Urquieta</personaje>
+            </actor>
+            <actor>
+                <nombre>Loreto Mauleón</nombre>
+                <personaje>Monserrat Castell</personaje>
+            </actor>
+            <actor>
+                <nombre>Eduard Fernández</nombre>
+                <personaje>Dr.Samuel Alvar</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Coherence</titulo>
+        <sinopsis>En Finlandia, en 1923, el paso de un cometa hizo que los habitantes de un pueblo quedaran completamente desorientados, incluso una mujer llegó a llamar a la policía denunciando que el hombre que estaba en su casa no era su marido. Décadas más tarde, un grupo de amigos recuerda este caso mientras cenan, brindan y se preparan para ver pasar un cometa... </sinopsis>
+        <duracion>89</duracion>
+        <directores>
+            <director>James Ward Byrkit</director>
+        </directores>
+        <año>2013</año>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Intriga</genero>
+            <genero>Ciencia Ficción</genero>
+        </generos>
+        <portada>https://es.web.img3.acsta.net/pictures/14/09/18/10/47/266847.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=loQVv9mBOys&ab_channel=TERRORLAND</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Emily Baldoni</nombre>
+                <personaje>Michelle</personaje>
+            </actor>
+            <actor>
+                <nombre>Maury Sterling</nombre>
+                <personaje>Kevin</personaje>
+            </actor>
+            <actor>
+                <nombre>Nicholas Brendon</nombre>
+                <personaje>Mike</personaje>
+            </actor>
+            <actor>
+                <nombre>Lauren Maher</nombre>
+                <personaje>Beth</personaje>
+            </actor>
+            <actor>
+                <nombre>Alex Manugian</nombre>
+                <personaje>Jack</personaje>
+            </actor>
+            <actor>
+                <nombre>Elizabeth Gracen</nombre>
+                <personaje>Laura</personaje>
+            </actor>
+            <actor>
+                <nombre>Wren Walker</nombre>
+                <personaje>Emily</personaje>
+            </actor>
+        </actores>
+        <edad>+13</edad>
+    </pelicula>
+
+   <pelicula>
+        <titulo>Seven</titulo>
+        <sinopsis>El veterano teniente Somerset (Morgan Freeman), del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso e impulsivo detective David Mills (Brad Pitt). Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.</sinopsis>
+        <duracion>127</duracion>
+        <directores>
+            <director>David Fincher</director>
+        </directores>
+        <año>1995</año>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Intriga</genero>
+            <genero>Crimen</genero>
+            <genero>Policíaca</genero>
+        </generos>
+        <portada>https://i.ytimg.com/vi/xhzBmjdehPA/hqdefault.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=xhzBmjdehPA&ab_channel=TERRORLAND</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Brad Pitt</nombre>
+                <personaje>David Mills</personaje>
+            </actor>
+            <actor>
+                <nombre>Morgan Freeman</nombre>
+                <personaje>Detective William Somerset</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <sinopsis>El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.</sinopsis>
+        <duracion>152</duracion>
+        <directores>
+            <director>Chris Columbus</director>
+        </directores>
+        <año>2001</año>
+        <generos>
+            <genero>Aventura</genero>
+            <genero>Ciencia Ficción</genero>
+        </generos>
+        <portada>https://es.web.img2.acsta.net/pictures/14/04/30/11/55/592219.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=WE4AJuIvG1Y&ab_channel=CineFantasia</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Daniel Radcliffe</nombre>
+                <personaje>Harry Potter</personaje>
+            </actor>
+            <actor>
+                <nombre>Emma Watson</nombre>
+                <personaje>Hermione Granger</personaje>
+            </actor>
+            <actor>
+                <nombre>Rupert Grint</nombre>
+                <personaje>Ron Weasley</personaje>
+            </actor>
+        </actores>
+        <edad>+7</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Múltiple</titulo>
+        <sinopsis>A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza, la Dra. Fletcher (Betty Buckley), que posee 23 personalidades diferentes, aún queda una por emerger, decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy), Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea, a medida que las paredes de sus compartimentos mentales se derrumban.</sinopsis>
+        <duracion>116</duracion>
+        <directores>
+            <director>M. Night Shyamalan</director>
+        </directores>
+        <año>2016</año>
+        <generos>
+            <genero>Thriller</genero>
+            <genero>Intriga</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/Maultiple-705500058-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=iAUcccyE2Ns</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>James McAvoy</nombre>
+                <personaje>Kevin Wendell Crumb / La Bestia</personaje>
+            </actor>
+            <actor>
+                <nombre>Anya Taylor-Joy</nombre>
+                <personaje>Casey Cooke</personaje>
+            </actor>
+            <actor>
+                <nombre>Betty Buckley</nombre>
+                <personaje>Dr. Karen Fletcher</personaje>
+            </actor>
+            <actor>
+                <nombre>Jessica Sula</nombre>
+                <personaje>Claire Benoit</personaje>
+            </actor>
+            <actor>
+                <nombre>Haley Lu Richardson</nombre>
+                <personaje>Marcia</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>El Bola</titulo>
+        <sinopsis>El Bola es un chaval de 12 años que vive en una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado, le incapacita para relacionarse y comunicarse con otros chicos. La llegada de un nuevo compañero al colegio le brinda la oportunidad de descubrir la amistad y una realidad familiar completamente distinta. Todo ello le dará la fuerza necesaria para aceptar y, además, afrontar su propia situación.</sinopsis>
+        <duracion>84</duracion>
+        <directores>
+            <director>Achero Mañas</director>
+        </directores>
+        <año>2000</año>
+        <generos>
+            <genero>Drama</genero>
+            <genero>Adolescencia</genero>
+            <genero>Amistad</genero>
+            <genero>Familia</genero>
+        </generos>
+        <portada>https://image.tmdb.org/t/p/original/i51PMyfiomYL9dw9zcHc3Z7BpjZ.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=TqA2MfK7-xU</trailer>
+        <idioma_original>Español</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Juan José Ballesta</nombre>
+                <personaje>El Bola (Alfredo)</personaje>
+            </actor>
+            <actor>
+                <nombre>Pablo Puyol</nombre>
+                <personaje>El Chino</personaje>
+            </actor>
+            <actor>
+                <nombre>Ana Wagener</nombre>
+                <personaje>La madre de El Bola</personaje>
+            </actor>
+            <actor>
+                <nombre>Luis Tosar</nombre>
+                <personaje>El padre de El Bola</personaje>
+            </actor>
+            <actor>
+                <nombre>Joaquín Climent</nombre>
+                <personaje>El padre de El Chino</personaje>
+            </actor>
+        </actores>
+        <edad>+12</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Los otros</titulo>
+        <sinopsis>Isla de Jersey, 1945. La Segunda Guerra Mundial ha terminado, pero el marido de Grace (Nicole Kidman) no vuelve. Sola en un aislado caserón victoriano de la isla de Jersey, educa a sus hijos dentro de rígidas normas religiosas. Los niños sufren una extraña enfermedad: no pueden recibir directamente la luz del día. Los tres nuevos sirvientes que se incorporan a la vida familiar deben aprender una regla vital: la casa estará siempre en penumbra, y nunca se abrirá una puerta si no se ha cerrado la anterior. Pero el estricto orden que Grace ha impuesto se verá desafiado por circunstancias que escapan a su control. </sinopsis>
+        <duracion>104</duracion>
+        <directores>
+            <director>Alejandro Amenábar</director>
+        </directores>
+        <año>2001</año>
+        <generos>
+            <genero>Intriga</genero>
+            <genero>Terror</genero>
+            <genero>Sobrenatural</genero>
+            <genero>Casas encantadas</genero>
+            <genero>Fantasmas</genero>
+            <genero>Años 40</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/los_otros_the_others-255113377-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=vON5kiGf1TI</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Nicole Kidman</nombre>
+                <personaje>Grace Stewart</personaje>
+            </actor>
+            <actor>
+                <nombre>Fionnula Flanagan</nombre>
+                <personaje>Sra. Mills</personaje>
+            </actor>
+            <actor>
+                <nombre>Christopher Eccleston</nombre>
+                <personaje>Gonzalo</personaje>
+            </actor>
+            <actor>
+                <nombre>Alakina Mann</nombre>
+                <personaje>Anne Stewart</personaje>
+            </actor>
+            <actor>
+                <nombre>James Bentley</nombre>
+                <personaje>Nicholas Stewart</personaje>
+            </actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Fight Club</titulo>
+        <sinopsis>Un joven hastiado de su gris y monótona vida lucha contra el insomnio. En un viaje en avión conoce a un carismático vendedor de jabón que sostiene una teoría muy particular: el perfeccionismo es cosa de gentes débiles; sólo la autodestrucción hace que la vida merezca la pena. Ambos deciden entonces fundar un club secreto de lucha, donde poder descargar sus frustaciones y su ira, que tendrá un éxito arrollador.</sinopsis>
+        <duracion>139</duracion>
+        <directores>
+            <director>David Fincher</director>
+        </directores>
+        <año>1999</año>
+        <generos>
+            <genero>Drama</genero>
+            <genero>Thriller</genero>
+            <genero>Sátira</genero>
+            <genero>Película de culto</genero>
+            <genero>Comedia negra</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/fight_club-320750671-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=yxQmJXZOZ30</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Edward Norton</nombre>
+                <personaje>El Narrador</personaje>
+            </actor>
+            <actor>
+                <nombre>Brad Pitt</nombre>
+                <personaje>Tyler Durden</personaje>
+            </actor>
+            <actor>
+                <nombre>Helena Bonham Carter</nombre>
+                <personaje>Marla Singer</personaje>
+            </actor>
+            <actor>
+                <nombre>Meat Loaf</nombre>
+                <personaje>Robert "Bob" Paulson</personaje>
+            </actor>
+            <actor>
+                <nombre>Jared Leto</nombre>
+                <personaje>Angel Face</personaje>
+            </actor>
+        </actores>
+        <edad>+18</edad>
+    </pelicula>
+    
+    <pelicula>
+        <titulo>La Novia Cadáver</titulo>
+        <sinopsis>Un hombre pone en el dedo de una mujer muerta, como broma, un anillo de compromiso. Pero lo que no sabe el pobre mortal es que la muerta reclamará sus derechos como "prometida".</sinopsis>
+        <duracion>75</duracion>
+        <directores>
+            <director>Tim Burton</director>
+            <director>Mike Johnson</director>
+        </directores>
+        <año>2005</año>
+        <generos>
+            <genero>Animación</genero>
+            <genero>Fantástico</genero>
+            <genero>Comedia</genero>
+            <genero>Romance</genero>
+            <genero>Musical</genero>
+            <genero>Terror</genero>
+            <genero>Stop Motion</genero>
+            <genero>Bodas</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/corpse_bride-106734407-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=6wcj_aJ15gI</trailer>
+        <idioma_original>Inglés</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Johnny Depp</nombre>
+                <personaje>Victor Van Dort</personaje>
+            </actor>
+            <actor>
+                <nombre>Helena Bonham Carter</nombre>
+                <personaje>Emily, la Novia Cadáver</personaje>
+            </actor>
+            <actor>
+                <nombre>Emily Watson</nombre>
+                <personaje>Victoria Everglot</personaje>
+            </actor>
+            <actor>
+                <nombre>Albert Finney</nombre>
+                <personaje>Finis Everglot</personaje>
+            </actor>
+            <actor>
+                <nombre>Joanna Lumley</nombre>
+                <personaje>Maudeline Everglot</personaje>
+            </actor>
+            <actor>
+                <nombre>Richard E. Grant</nombre>
+                <personaje>Barkis Bittern</personaje>
+            </actor>
+        </actores>
+        <edad>+7</edad>
+    </pelicula>
+    
+    <pelicula>
+
+    </pelicula>
+        <titulo>Tesis</titulo>
+        <sinopsis>Ángela, estudiante de Imagen, está preparando una tesis sobre la violencia audiovisual. Como complemento a su trabajo, su director de tesis se compromete a buscar en la videoteca de la facultad material para ella, pero al día siguiente es hallado muerto. Ángela conoce a Chema, un compañero experto en cine gore y pornográfico, y a Bosco, un extraño chico, amigo íntimo de una joven asesinada en una snuff movie.</sinopsis>
+        <duracion>125</duracion>
+        <directores>
+            <director>Alejandro Amenábar</director>
+        </directores>
+        <año>1996</año>
+        <generos>
+            <genero>Intriga</genero>
+            <genero>Thriller</genero>
+            <genero>Asesinos en serie</genero>
+            <genero>Secuestros</genero>
+            <genero>Peliculas de culto</genero>
+        </generos>
+        <portada>https://pics.filmaffinity.com/tesis-722806709-large.jpg</portada>
+        <trailer>https://www.youtube.com/watch?v=Ku4CbW2m7Sg</trailer>
+        <idioma_original>Español</idioma_original>
+        <actores>
+            <actor>
+                <nombre>Ana Torrent</nombre>
+                <personaje>Ángela</personaje>
+            </actor>
+            <actor>
+                <nombre>Fele Martínez</nombre>
+                <personaje>Chema</personaje>
+            </actor>
+            <actor>
+                <nombre>Eduardo Noriega</nombre>
+                <personaje>Bosco</personaje>
+            </actor>
+            <actor>
+                <nombre>Xabier Elorriaga</nombre>
+                <personaje>Figueroa</personaje>
+            <actor>
+            <actor>
+                <nombre>Miguel Picazo</nombre>
+                <personaje>Jorge Castro</personaje>
+            <actor>
+        </actores>
+        <edad>+16</edad>
+    </pelicula>
+
+
+
+<!--*************************************************************************************************-->
+    
+
+
+
+
+
+<peliculas>
